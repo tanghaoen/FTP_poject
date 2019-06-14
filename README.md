@@ -3,7 +3,7 @@ This project is mainly to implement an interactive process between the client an
 
 1. User login/registration
 
-2.Create user folders
+ 2.Create user folders
 
 3. Upload/download files
 
