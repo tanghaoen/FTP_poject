@@ -3,10 +3,8 @@ This project is mainly to implement an interactive process between the client an
 
 1. User login/registration
 
-2.Create user folders
+2. Upload/download files
 
-3. Upload/download files
+3. Realize the breakpoint continuation of the file
 
-4. Realize the breakpoint continuation of the file
-
-5. Satisfy CD, Is and other command characters
+4. Satisfy CD, Is and other command characters
