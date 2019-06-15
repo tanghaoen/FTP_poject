@@ -1,7 +1,7 @@
 # FTP_poject
 This project is mainly to implement an interactive process between the client and the server, which mainly includes the following contents:
 
-1. User login/registration
+1. User login/registration，Create user folders
 
 2. Upload/download files
 
